@@ -1,0 +1,28 @@
+.container-Div1 {
+  background: white;
+  margin: 10px;
+  padding: 10px;
+  color: black;
+}
+
+.outterPage {
+  background-color: red;
+  text-align: center;
+  color: Yellow;
+}
+
+.innerPage {
+  background-color: blue;
+  text-align: center;
+}
+
+.container-Div2 {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  
+}
+
+body {
+  background-color: black;
+}
